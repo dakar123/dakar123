@@ -6,26 +6,23 @@
 ---
 
 <!-- Estadísticas de GitHub -->
-### GitHub Stats
-
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=dakar123&show_icons=true&theme=dark&icon_color=39FF14&title_color=39FF14&text_color=A8FF60&bg_color=000000" />
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=dakar123&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=A8FF60&sideNums=A8FF60&sideLabels=39FF14&dates=84FF7A&background=000000" />
+  <!-- Stats generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dakar123&show_icons=true&theme=dark&icon_color=39FF14&title_color=39FF14&text_color=A8FF60&bg_color=000000" />
+  
+  <!-- Racha de contribuciones -->
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dakar123&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=A8FF60&sideNums=A8FF60&sideLabels=39FF14&dates=84FF7A&background=000000" />
 </div>
 
 ---
 
-
-<!-- GitHub Trophies -->
-
+<!-- Trofeos (3 más altos) -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dakar123&theme=matrix&no-frame=true&no-bg=true&column=3&title=committer,issues,stars" />
 </div>
 
 ---
-
-<!-- Tecnologías -->
-### 🛠️ Technologies I Use
 
 <!-- Tecnologías usadas -->
 <div align="center">
