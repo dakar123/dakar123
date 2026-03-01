@@ -16,18 +16,15 @@
 <!--              GITHUB PROFILE SUMMARY CARDS              -->
 <div align="center">
 
-  <!-- Profile overview — full width -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakar123&theme=github_dark" width="100%" />
 
   <br />
 
-  <!-- Stats + Productive Time — side by side -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dakar123&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dakar123&theme=github_dark&utcOffset=-5" width="49%" />
 
   <br />
 
-  <!-- Languages in repos + Languages in commits — side by side -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dakar123&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dakar123&theme=github_dark" width="49%" />
 
@@ -42,14 +39,17 @@
 
 ---
 
-<!--  METRICS                   -->
+<!--        STATS + TOP LANGUAGES (reemplazo de Metrics)    -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/dakar123?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.indepth=1&stars=1&stars.limit=3&config.timezone=America%2FLima" alt="GitHub Metrics" width="100%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dakar123&show_icons=true&theme=dark&icon_color=39FF14&title_color=39FF14&text_color=A8FF60&bg_color=000000&border_color=39FF14&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakar123&layout=compact&theme=dark&title_color=39FF14&text_color=A8FF60&bg_color=000000&border_color=39FF14&langs_count=10" width="49%" />
+
 </div>
 
 ---
 
-<!--  ACTIVITY GRAPH                -->
+<!--         ACTIVITY GRAPH                                 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakar123&theme=github-compact&bg_color=000000&color=39FF14&line=39FF14&point=A8FF60&area=true&area_color=39FF14&hide_border=false&border_color=39FF14" width="100%" />
 </div>
@@ -57,7 +57,7 @@
 ---
 
 <!--                    TECH STACK                          -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">Tech Stack & Tools</h3>
 
 <div align="center">
 
