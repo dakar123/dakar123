@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arnold+Zaga;Engineer+%7C+Developer;Full+Stack+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arnold+Zaga;Engineer+%7C+Developer;Full+Stack" alt="Typing SVG" />
 </h1>
 
 ---
