@@ -11,6 +11,11 @@
   </a>
 </p>
 
+<!--         ACTIVITY GRAPH                                 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakar123&bg_color=000000&color=39FF14&line=39FF14&point=A8FF60&area=true&area_color=001a00&hide_border=false&border_color=39FF14&title_color=39FF14" width="100%" />
+</div>
+
 ---
 
 <!--              GITHUB PROFILE SUMMARY CARDS              -->
@@ -35,23 +40,6 @@
 <!--                  CONTRIBUTION STREAK                   -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dakar123&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=A8FF60&sideNums=A8FF60&sideLabels=39FF14&dates=84FF7A&background=000000&border=39FF14" />
-</div>
-
----
-
-<!--        STATS + TOP LANGUAGES (reemplazo de Metrics)    -->
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dakar123&show_icons=true&theme=dark&icon_color=39FF14&title_color=39FF14&text_color=A8FF60&bg_color=000000&border_color=39FF14&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakar123&layout=compact&theme=dark&title_color=39FF14&text_color=A8FF60&bg_color=000000&border_color=39FF14&langs_count=10" width="49%" />
-
-</div>
-
----
-
-<!--         ACTIVITY GRAPH                                 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakar123&theme=github-compact&bg_color=000000&color=39FF14&line=39FF14&point=A8FF60&area=true&area_color=39FF14&hide_border=false&border_color=39FF14" width="100%" />
 </div>
 
 ---
