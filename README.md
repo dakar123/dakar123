@@ -34,33 +34,29 @@
 </div>
 
 ---
-<!--                  CONTRIBUTION STREAK                   -->
 
+<!--                  CONTRIBUTION STREAK                   -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dakar123&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=A8FF60&sideNums=A8FF60&sideLabels=39FF14&dates=84FF7A&background=000000&border=39FF14" />
 </div>
 
 ---
 
-<!--                    METRICS (via GitHub Action)         -->
+<!--  METRICS                   -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dakar123/dakar123/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/dakar123?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.indepth=1&stars=1&stars.limit=3&config.timezone=America%2FLima" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
 
-<!--             SNAKE CONTRIBUTION ANIMATION               -->
+<!--  ACTIVITY GRAPH                -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dakar123/dakar123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dakar123/dakar123/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/dakar123/dakar123/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakar123&theme=github-compact&bg_color=000000&color=39FF14&line=39FF14&point=A8FF60&area=true&area_color=39FF14&hide_border=false&border_color=39FF14" width="100%" />
 </div>
 
 ---
+
 <!--                    TECH STACK                          -->
-
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
