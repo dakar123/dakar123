@@ -1,25 +1,28 @@
 <!-- Encabezado animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arnold+Zaga;Engineer+%7C+Developer;Full+Stack+&+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arnold+Zaga;Engineer+%7C+Developer;Full+Stack+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ---
 
 <!-- Estadísticas de GitHub -->
 <div align="center">
+
   <!-- Stats generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dakar123&show_icons=true&theme=dark&icon_color=39FF14&title_color=39FF14&text_color=A8FF60&bg_color=000000" />
-  
-  <!-- Racha de contribuciones -->
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dakar123&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=A8FF60&sideNums=A8FF60&sideLabels=39FF14&dates=84FF7A&background=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dakar123&show_icons=true&theme=dark&icon_color=39FF14&title_color=39FF14&text_color=A8FF60&bg_color=000000&border_color=39FF14&hide_border=false&rank_icon=github" />
+
+  <br /><br />
+
+  <!-- Racha de contribuciones — URL actualizada a demolab -->
+  <img src="https://streak-stats.demolab.com?user=dakar123&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=A8FF60&sideNums=A8FF60&sideLabels=39FF14&dates=84FF7A&background=000000&border=39FF14" />
+
 </div>
 
 ---
 
-<!-- Trofeos (3 más altos) -->
+<!-- Trofeos — título corregido: Commits (no committer) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dakar123&theme=matrix&no-frame=true&no-bg=true&column=3&title=committer,issues,stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dakar123&theme=matrix&no-frame=true&no-bg=true&column=3&title=Commits,Issues,Stars" />
 </div>
 
 ---
